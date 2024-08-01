@@ -89,3 +89,15 @@ A **Página OTC** (Over-the-Counter) facilita a negociação de grandes volumes 
 - **Atualização de Cotações**: A cada 15 segundos, a página atualiza as cotações atuais das criptomoedas.
 - **Cálculo Automático**: Ao inserir um valor, o sistema calcula automaticamente o montante que será pago.
 - **Notificações e Confirmações**: Todas as compras finalizadas resultam no envio de um e-mail de confirmação, ativado via webhook.
+
+## Ferramentas e Tecnologias Utilizadas
+
+- **Laravel**: Utilizado como framework principal para o backend, proporcionando uma estrutura sólida e eficiente para o desenvolvimento do projeto.
+- **Blade**: O motor de templates do Laravel, usado para construir as interfaces de usuário de forma dinâmica e eficiente.
+- **Bootstrap**: Framework de CSS utilizado para o design responsivo e estilização das páginas.
+- **Eloquent ORM**: O mapeamento objeto-relacional (ORM) do Laravel, utilizado para interagir com o banco de dados de maneira simplificada.
+- **JavaScript e jQuery**: Utilizados para melhorar a interatividade do frontend.
+- **API de Mercado Financeiro**: Implementada para obter as cotações atualizadas das criptomoedas em tempo real.
+- **PHP QR Code**: Biblioteca para geração de QR Codes, facilitando pagamentos e transferências.
+- **MySQL**: Banco de dados relacional utilizado para armazenar informações de usuários, transações e criptomoedas.
+- **Webhooks**: Utilizados para notificações em tempo real, como confirmações de compras e outras transações.
