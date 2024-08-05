@@ -92,12 +92,12 @@ A **Página OTC** (Over-the-Counter) facilita a negociação de grandes volumes 
 
 ## Ferramentas e Tecnologias Utilizadas
 
-- **Laravel**: Utilizado como framework principal para o backend, proporcionando uma estrutura sólida e eficiente para o desenvolvimento do projeto.
+- **Laravel**: Utilizado como framework principal para o backend.
 - **Blade**: O motor de templates do Laravel, usado para construir as interfaces de usuário de forma dinâmica e eficiente.
-- **PHPUnit**:Framework de testes.
-- **LiveWire**
-- **Queues (FIlas)**
-- **Bootstrap**: Framework de CSS utilizado para o design responsivo e estilização das páginas.
+- **PHPUnit**: Usado para realizar testes.
+- **LiveWire**: Usado para atualização automatica de cotação.
+- **Queues (FIlas)** : Para disparo de e-mail e outras funções, evitando travamento da tela do usuário.
+- **Bootstrap**: Framework de CSS.
 - **Eloquent ORM**: O mapeamento objeto-relacional (ORM) do Laravel, utilizado para interagir com o banco de dados de maneira simplificada.
 - **JavaScript e jQuery**: Utilizados para melhorar a interatividade do frontend.
 - **API de Mercado Financeiro**: Implementada para obter as cotações atualizadas das criptomoedas em tempo real.
