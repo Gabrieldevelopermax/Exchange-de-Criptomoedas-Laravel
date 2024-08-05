@@ -94,6 +94,9 @@ A **Página OTC** (Over-the-Counter) facilita a negociação de grandes volumes 
 
 - **Laravel**: Utilizado como framework principal para o backend, proporcionando uma estrutura sólida e eficiente para o desenvolvimento do projeto.
 - **Blade**: O motor de templates do Laravel, usado para construir as interfaces de usuário de forma dinâmica e eficiente.
+- **PHPUnit**:Framework de testes.
+- **LiveWire**
+- **Queues (FIlas)**
 - **Bootstrap**: Framework de CSS utilizado para o design responsivo e estilização das páginas.
 - **Eloquent ORM**: O mapeamento objeto-relacional (ORM) do Laravel, utilizado para interagir com o banco de dados de maneira simplificada.
 - **JavaScript e jQuery**: Utilizados para melhorar a interatividade do frontend.
